@@ -21,7 +21,7 @@
 ```yaml
 Name: Suman Bhattarai
 Role: Entry-Level Software Engineer
-Location: Nepal 🇳🇵
+Location: Toronto, Ontario, Canada
 Focus:
   - Backend Development
   - Full Stack Development
